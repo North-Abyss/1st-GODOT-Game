@@ -1,6 +1,6 @@
 # My First 2D Godot Game - Vampire Survivor Style
 
-![Game Screenshot](screenshot-testrun.png)  <!-- Add a screenshot of your game here -->
+![Game Screenshot](Screenshot-testrun.png)  <!-- Add a screenshot of your game here -->
 
 A simple 2D top-down roguelite game built in **Godot 4** inspired by Vampire Survivor. This project is designed to practice GDScript, scene management, procedural spawning, and basic game mechanics.
 
