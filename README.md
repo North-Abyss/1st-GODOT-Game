@@ -13,9 +13,9 @@ A simple 2D top-down roguelite game built in **Godot 4** inspired by Vampire Sur
 
 ## How to Play
 1. Download the build for your platform:
-   - Windows: [Download EXE link]
-   - Linux: [Download AppImage/Binary link]
-   - Android: [Download APK link]
+   - Windows   : [Download EXE link](https://github.com/North-Abyss/1st-GODOT-Game/releases/tag/v1.0.0)
+   - Linux     : [Download AppImage/Binary link](https://github.com/North-Abyss/1st-GODOT-Game/releases/tag/v1.0.0)
+   - Android   : [Download APK link](https://github.com/North-Abyss/1st-GODOT-Game/releases/tag/v1.0.0)
 2. Run the game and move your character using arrow keys or WASD
 3. Survive and defeat mobs while avoiding obstacles
 4. Collect score and try to beat your record!
